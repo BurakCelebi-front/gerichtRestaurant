@@ -3,7 +3,7 @@
 
 A fully responsive **one-page restaurant landing page** built with **React**, designed to deliver an elegant, modern experience.
 
-**🔗 Live demo:** https://gericht-restaurant-kp7f.vercel.app
+**🔗 Live demo:** https://gericht-restaurant-beige.vercel.app/
 
 <img width="780" height="412" alt="Gericht1" src="https://github.com/user-attachments/assets/2ad0f80e-ab9e-4b8f-8cfc-a5bd9ee148f7" />
 
