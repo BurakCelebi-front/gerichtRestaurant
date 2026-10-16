@@ -1,3 +1,4 @@
+
 # Gericht Restaurant 🍽️
 
 A fully responsive **one-page restaurant landing page** built with **React**, designed to deliver an elegant, modern experience.
@@ -8,7 +9,7 @@ A fully responsive **one-page restaurant landing page** built with **React**, de
 <img width="780" height="412" alt="Screenshot 2026-10-16 at 14 58 22" src="https://github.com/user-attachments/assets/2ad0f80e-ab9e-4b8f-8cfc-a5bd9ee148f7" />
 <img width="780" height="412" alt="Screenshot 2026-10-16 at 14 59 38" src="https://github.com/user-attachments/assets/a89e40ed-8523-4d7e-9093-7f01cc9fc987" />
 
-<!-- Add a screenshot after deploy: ![Gericht Restaurant preview](./preview.png) -->
+<img width="780" height="412" alt="Screenshot 2026-10-16 at 15 11 57" src="https://github.com/user-attachments/assets/60866a80-ae05-499d-a570-5f2374b0e21c" />
 
 ## 📌 Features
 
