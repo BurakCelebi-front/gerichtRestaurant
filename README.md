@@ -21,6 +21,18 @@ A fully responsive **one-page restaurant landing page** built with **React**, de
 - Intro video with custom play/pause control
 - Newsletter sign-up block and footer with contact info
 
+## 💡 What I learned & what I changed
+
+**Learned**
+- Turning a Figma design into a pixel-faithful, fully responsive layout with plain CSS (custom properties, Flexbox, media queries) — no UI framework
+- Splitting a one-page React app into reusable components (`SubHeading`, `MenuItem`) and section containers, with menu and awards content driven by data files
+
+**Changed after the original build**
+- Cleaned the repo: removed committed build output, fixed a broken `public/index.html` that referenced a non-existent bundle, added `.gitignore`
+- Fixed ESLint issues that made the Vercel build fail (`CI=true` treats warnings as errors)
+- Migrated to the React 18 `createRoot` API and added SEO / Open Graph meta tags
+- Deployed on Vercel
+
 ## 🧩 Sections
 
 `Navbar` · `Header` · `About Us` · `Special Menu` · `Chef` · `Intro (video)` · `Laurels` · `Gallery` · `Find Us` · `Footer`
@@ -64,6 +76,10 @@ src/
 └── index.jsx
 public/            # index.html, favicon, manifest
 ```
+
+## 🙏 Credits
+
+UI design and original concept: **Gericht** by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) ([tutorial](TUTORIAL_LINK)). Built as a practice project to sharpen my React and responsive CSS skills; all code in this repository was written by me while following and then extending the design.
 
 ## 📄 License
 
