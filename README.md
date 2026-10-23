@@ -79,7 +79,7 @@ public/            # index.html, favicon, manifest
 
 ## 🙏 Credits
 
-UI design and original concept: **Gericht** by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) ([tutorial](TUTORIAL_LINK)). Built as a practice project to sharpen my React and responsive CSS skills; all code in this repository was written by me while following and then extending the design.
+UI design and original concept: **Gericht** by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) ([tutorial]([TUTORIAL_LINK](https://www.youtube.com/watch?v=4oV65GVVits))). Built as a practice project to sharpen my React and responsive CSS skills; all code in this repository was written by me while following and then extending the design.
 
 ## 📄 License
 
