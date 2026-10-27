@@ -1,6 +1,6 @@
 # Gericht Restaurant 🍽️
 
-**🔗 Live demo:** _deploying — link added below once the Vercel deployment finishes_
+**🔗 Live demo:** https://gericht-restaurant-beige.vercel.app/
 
 A fully responsive restaurant site, migrated from a Create React App single-page app to **Next.js 15 (App Router) + TypeScript**. The original design — layout, colors, copy, images — is preserved pixel-for-pixel; only the technical foundation changed, plus three new feature pages that exercise Next.js's three rendering modes end to end.
 
